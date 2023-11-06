@@ -1,0 +1,1182 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.14f1 (eee1884e7226) revision 15655304'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'en' Physical Memory: 16147 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/Somi3/Somi/University/Unity/GSP 2 TechDemo - Horror
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55683
+Successfully changed project path to: C:/Users/Somi3/Somi/University/Unity/GSP 2 TechDemo - Horror
+C:/Users/Somi3/Somi/University/Unity/GSP 2 TechDemo - Horror
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 113.06 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.14f1 (eee1884e7226)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Somi3/Somi/University/Unity/GSP 2 TechDemo - Horror/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6010 MB
+    Driver:   31.0.15.4601
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56704
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.015258 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 99.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Domain Reload Profiling:
+	ReloadAssembly (905ms)
+		BeginReloadAssembly (161ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (601ms)
+			LoadAssemblies (161ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (127ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (360ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (72ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (100ms)
+				BeforeProcessingInitializeOnLoad (4ms)
+				ProcessInitializeOnLoadAttributes (123ms)
+				ProcessInitializeOnLoadMethodAttributes (60ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009735 seconds.
+Android Extension - Scanning For ADB Devices 8330 ms
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Somi3\Somi\University\Unity\GSP 2 TechDemo - Horror\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Somi3\Somi\University\Unity\GSP 2 TechDemo - Horror\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.854 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1855ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1465ms)
+			LoadAssemblies (221ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (301ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (90ms)
+			SetupLoadedEditorAssemblies (796ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (34ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (103ms)
+				ProcessInitializeOnLoadAttributes (607ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3427 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (88.6 KB). Loaded Objects now: 3917.
+Memory consumption went from 144.1 MB to 144.0 MB.
+Total: 5.537900 ms (FindLiveObjects: 0.374900 ms CreateObjectMapping: 0.143000 ms MarkObjects: 4.904100 ms  DeleteObjects: 0.114700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 25717.472155 seconds.
+  path: Assets/Scripts/UI/Page Viewer/paper sheet.png
+  artifactKey: Guid(d623490e141b6494e9d5762f3b8ddc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/Page Viewer/paper sheet.png using Guid(d623490e141b6494e9d5762f3b8ddc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165180347bbd1eb4acacb91b73dfd462') in 0.174645 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009300 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Somi3\Somi\University\Unity\GSP 2 TechDemo - Horror\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Somi3\Somi\University\Unity\GSP 2 TechDemo - Horror\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.795 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1796ms)
+		BeginReloadAssembly (184ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1448ms)
+			LoadAssemblies (138ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (488ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (626ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (44ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (129ms)
+				ProcessInitializeOnLoadAttributes (397ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3407 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (81.6 KB). Loaded Objects now: 3923.
+Memory consumption went from 142.5 MB to 142.5 MB.
+Total: 6.691100 ms (FindLiveObjects: 0.484700 ms CreateObjectMapping: 0.319500 ms MarkObjects: 5.641400 ms  DeleteObjects: 0.243800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 311.960684 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Straightsword_01.fbx
+  artifactKey: Guid(7782f443ba1a6994aa7da99e2a32b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Straightsword_01.fbx using Guid(7782f443ba1a6994aa7da99e2a32b54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25cb3a3824c40d7b7129b82b7196572b') in 0.221554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.581209 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Staff_Gem_01.fbx
+  artifactKey: Guid(d1e505371573cfd44835f420862df33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Staff_Gem_01.fbx using Guid(d1e505371573cfd44835f420862df33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119283ae16d7fede08ab74bf7c1a77d5') in 0.045376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.668028 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Staff_DoubleBlade_01.fbx
+  artifactKey: Guid(cb7eb04367f0f09488a3204c47bf2230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Staff_DoubleBlade_01.fbx using Guid(cb7eb04367f0f09488a3204c47bf2230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c96bfbb8e2556eaef39c9e4c1af9ee46') in 0.041965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.073483 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Spear_02.fbx
+  artifactKey: Guid(97696996785d8c247a0f241f7b5add76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Spear_02.fbx using Guid(97696996785d8c247a0f241f7b5add76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f6940e972dd5d5a396af2392362a23') in 0.032754 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.464008 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Spear_01.fbx
+  artifactKey: Guid(d9846e0c0b6923d48a1a17570257c243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Spear_01.fbx using Guid(d9846e0c0b6923d48a1a17570257c243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487cc1583e7646033c9fd30c4fdee363') in 0.036850 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.299051 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Spike_01.fbx
+  artifactKey: Guid(b5196e5ddc1ba8048a3717e119b55b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Spike_01.fbx using Guid(b5196e5ddc1ba8048a3717e119b55b9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a820854fed7fff15f8cf7868bf04d583') in 0.030968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.936035 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Skull_01.fbx
+  artifactKey: Guid(7b67d90977497b24c890fe89d3a17e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Skull_01.fbx using Guid(7b67d90977497b24c890fe89d3a17e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3ee553f64801ca945e2137ad434da8') in 0.033947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.518752 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Round_01.fbx
+  artifactKey: Guid(d89325b804cfeec4993ebfcb917827e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Round_01.fbx using Guid(d89325b804cfeec4993ebfcb917827e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf59a7ef65931db9437ee67becb6e4e') in 0.054977 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.090046 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Plank_01.fbx
+  artifactKey: Guid(18a0e475bb9a67a4ead91cfc54c60067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Plank_01.fbx using Guid(18a0e475bb9a67a4ead91cfc54c60067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0430e042202faf9fe1dd64c6842738') in 0.038068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.317341 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Ornate_02.fbx
+  artifactKey: Guid(e7e8d59c22a2a5b45957f30083153be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Ornate_02.fbx using Guid(e7e8d59c22a2a5b45957f30083153be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f3d00cf2d1ef34f022deded6a3ff4a') in 0.034892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.124260 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Ornate_01.fbx
+  artifactKey: Guid(0e5e90c65ada88a46b1227dbc4ce0f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Ornate_01.fbx using Guid(0e5e90c65ada88a46b1227dbc4ce0f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc9021d8065e6800bd89947d9b34b89') in 0.039755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.097848 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Heater_02.fbx
+  artifactKey: Guid(0541f2578014ebc4ebdb69a05651ab52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Heater_02.fbx using Guid(0541f2578014ebc4ebdb69a05651ab52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e87327e18d82af270b0af1d592be5948') in 0.055192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.067176 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Heater_01.fbx
+  artifactKey: Guid(d88ff55df6fecdf42853e4f343673e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Heater_01.fbx using Guid(d88ff55df6fecdf42853e4f343673e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2add90b9dcddbb5c42299506be6ff90') in 0.038597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.207365 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Gravestone_01.fbx
+  artifactKey: Guid(9efe6c1e827977d4d983dc59ee86ae5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Gravestone_01.fbx using Guid(9efe6c1e827977d4d983dc59ee86ae5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20911697ffaaa1990a21e1aaf8839756') in 0.046956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.071161 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Chitin_01.fbx
+  artifactKey: Guid(0cf25bfb960adfa449abdb123c81e439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Chitin_01.fbx using Guid(0cf25bfb960adfa449abdb123c81e439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f411cdb27e82b3a4a1a02b7b914b5b7') in 0.040358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.275756 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Shield_Bone_01.fbx
+  artifactKey: Guid(506299da5a50ee9479830b89c930920f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Shield_Bone_01.fbx using Guid(506299da5a50ee9479830b89c930920f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aa029811baa7f1c97f2e6d94f06ee6e') in 0.048245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Ornate_Sword_02.fbx
+  artifactKey: Guid(b24956cf5d4cc0e44a42e03d26fa5797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Ornate_Sword_02.fbx using Guid(b24956cf5d4cc0e44a42e03d26fa5797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1694733d93b3b5cd9a2e769452dcbd0') in 0.041818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.268207 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Ornate_Sword_01.fbx
+  artifactKey: Guid(4287871038410604887de360267aed79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Ornate_Sword_01.fbx using Guid(4287871038410604887de360267aed79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b47638bec0e574c780b116b66c80cf') in 0.041826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.040596 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Ornate_Spikes_Long_01.fbx
+  artifactKey: Guid(ca4fe857e37ccc64484ea6f9a453532d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Ornate_Spikes_Long_01.fbx using Guid(ca4fe857e37ccc64484ea6f9a453532d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ddf98130c02a629200837e0b4dcc55d') in 0.038823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.307255 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Ornate_Spikes_01.fbx
+  artifactKey: Guid(8d9e6fedf8f681f42a215ef1f7005565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Ornate_Spikes_01.fbx using Guid(8d9e6fedf8f681f42a215ef1f7005565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c694449e403b396035fcb7d78d60e92') in 0.050322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Ornate_GreatAxe_01_Convex.asset
+  artifactKey: Guid(b056f23f4146ce54bba9b87c13edf87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Ornate_GreatAxe_01_Convex.asset using Guid(b056f23f4146ce54bba9b87c13edf87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb2383ea43345126000bd899497298c') in 0.044332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.390950 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Ornate_GreatAxe_01.fbx
+  artifactKey: Guid(e4d829b94ac67a044bde654231eb8cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Ornate_GreatAxe_01.fbx using Guid(e4d829b94ac67a044bde654231eb8cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bac4e28abd81381bd9edb0067548008') in 0.044738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Ornate_Axe_01_Convex.asset
+  artifactKey: Guid(95a37b42cb5ed60488f38051ee33ff87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Ornate_Axe_01_Convex.asset using Guid(95a37b42cb5ed60488f38051ee33ff87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32e3cf6d7745bf5b0f941c995a4e081') in 0.030106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.061583 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Ornate_Axe_01.fbx
+  artifactKey: Guid(4a9eda17d509dc64cbf32dd5e5e2d664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Ornate_Axe_01.fbx using Guid(4a9eda17d509dc64cbf32dd5e5e2d664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f989db9c4d42981de6d1ed53bcf6af0d') in 0.045276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.349127 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Mace_Blades_01.fbx
+  artifactKey: Guid(d4fb7149a46f6a849b7fed81dc673884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Mace_Blades_01.fbx using Guid(d4fb7149a46f6a849b7fed81dc673884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb04eb88efd6f152fe165c1f159b127') in 0.037673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.196253 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Handle_Wood_01.fbx
+  artifactKey: Guid(311c9465161a8e444a26b8ff1bc9c01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Handle_Wood_01.fbx using Guid(311c9465161a8e444a26b8ff1bc9c01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aff17a61a06da89002c2f64371bd376') in 0.047165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.065176 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Handle_Metal_01.fbx
+  artifactKey: Guid(63e94aa1f140eaf44b03cceef852fbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Handle_Metal_01.fbx using Guid(63e94aa1f140eaf44b03cceef852fbf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37de4f66c14da96df55866e07794bbb') in 0.030707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.262035 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_HandAxe_01.fbx
+  artifactKey: Guid(34bce3c786a0b6346a44587a7dabeca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_HandAxe_01.fbx using Guid(34bce3c786a0b6346a44587a7dabeca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d7399bee35ee1be00ca00c9d681fd0') in 0.033710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.039519 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Hammer_Small_02.fbx
+  artifactKey: Guid(de39427fbf0a17843aa550ed7b2ff935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Hammer_Small_02.fbx using Guid(de39427fbf0a17843aa550ed7b2ff935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f8e80b57c7b2b9bd322fa6d6a8206f') in 0.034109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.406692 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Hammer_Small_01.fbx
+  artifactKey: Guid(9e385948ee5f4ea4890585f68e12e431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Hammer_Small_01.fbx using Guid(9e385948ee5f4ea4890585f68e12e431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b77f4f633bbfab9d2a5da47c0e3de649') in 0.050560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026711 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Hammer_Mace_Stone_01.fbx
+  artifactKey: Guid(1c6a9cc786ee51644a0ee0c2dc61befa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Hammer_Mace_Stone_01.fbx using Guid(1c6a9cc786ee51644a0ee0c2dc61befa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eb21baa86bc3ad0db79742833336f1c') in 0.034071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.281096 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Hammer_Mace_Spikes_01.fbx
+  artifactKey: Guid(368c05d6b0f107f42970f6fbca1d7e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Hammer_Mace_Spikes_01.fbx using Guid(368c05d6b0f107f42970f6fbca1d7e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9789d2d270ea60300011cec2fec11f2') in 0.048040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Hammer_Large_Wood_01_Convex.asset
+  artifactKey: Guid(09a17485c6c3b8045ab757b786e654ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Hammer_Large_Wood_01_Convex.asset using Guid(09a17485c6c3b8045ab757b786e654ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8bcbe565970f567722ef29041cc04e') in 0.035588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Hammer_Large_Wood_01.fbx
+  artifactKey: Guid(2a4ef89610b72a94eb50eecaf3e4eebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Hammer_Large_Wood_01.fbx using Guid(2a4ef89610b72a94eb50eecaf3e4eebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59d16436a29ab27e6605993d98b171f3') in 0.035782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.250770 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Hammer_Large_Stone_01.fbx
+  artifactKey: Guid(8f4efbdcd4a4f1b4194240ec9e2a7706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Hammer_Large_Stone_01.fbx using Guid(8f4efbdcd4a4f1b4194240ec9e2a7706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d78d8590326b45a504b1b4ea33019b') in 0.036920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Hammer_Large_Metal_01_Convex.asset
+  artifactKey: Guid(c8e0c4525a7590049b908618eab78c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Hammer_Large_Metal_01_Convex.asset using Guid(c8e0c4525a7590049b908618eab78c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '520d9aacb64cc378d181e014642303fd') in 0.031071 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.313323 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Hammer_Large_Metal_01.fbx
+  artifactKey: Guid(08c18a17006ad9a4eb9d96fe947f2af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Hammer_Large_Metal_01.fbx using Guid(08c18a17006ad9a4eb9d96fe947f2af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b709258fd4e7b93f1ede50ecda5d7b1') in 0.032488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Halberd_06.fbx
+  artifactKey: Guid(9eae69bb4d1913d49b4560068caab7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Halberd_06.fbx using Guid(9eae69bb4d1913d49b4560068caab7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471a6be165694ba38afd703f564d2f6b') in 0.037202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.296423 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Greatsword_Straight_01.fbx
+  artifactKey: Guid(1b5a637a2abea174d9aff7195a85a687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Greatsword_Straight_01.fbx using Guid(1b5a637a2abea174d9aff7195a85a687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d33942e22684c4162be23297dcbf8d') in 0.028653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.082642 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Greatsword_Curved_01.fbx
+  artifactKey: Guid(f2c025715735eb747b30bf33ea1c02f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Greatsword_Curved_01.fbx using Guid(f2c025715735eb747b30bf33ea1c02f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e7d105009cdc9de58d2a69b0f06557') in 0.035576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Greatsword_Round_01.fbx
+  artifactKey: Guid(d7525610871b2c647b24f4aa65c6ce89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Greatsword_Round_01.fbx using Guid(d7525610871b2c647b24f4aa65c6ce89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b93d91a0165c6f32181bdf41afbeb1') in 0.038318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.014058 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Goblin_Shiv_Stone_01.fbx
+  artifactKey: Guid(88ed8fc05b0c7154aa95054f8746c449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Goblin_Shiv_Stone_01.fbx using Guid(88ed8fc05b0c7154aa95054f8746c449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecf22ffe96c5675eb6302fc4c5c54d3c') in 0.039396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.167420 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Goblin_Shiv_Stone_01_Convex.asset
+  artifactKey: Guid(364c3f5996c1baa4ba26182421d6ce27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Goblin_Shiv_Stone_01_Convex.asset using Guid(364c3f5996c1baa4ba26182421d6ce27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f6adf01bb4ca227ba48d8cf48c91c2') in 0.023973 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Goblin_Staff_01.fbx
+  artifactKey: Guid(7c4cc7ab2be3a504fb559246d963c578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Goblin_Staff_01.fbx using Guid(7c4cc7ab2be3a504fb559246d963c578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8090fc5fc6c7f3323bf8fc3f9fba6bc4') in 0.031568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.219198 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_GreatSword_01.fbx
+  artifactKey: Guid(2221a18cfc36ca7448f6f50bc66b151b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_GreatSword_01.fbx using Guid(2221a18cfc36ca7448f6f50bc66b151b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '589d3b8831d19248b389218e86b818df') in 0.034137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Axe_Rune_01.fbx
+  artifactKey: Guid(67f186f40f9105943a5a148f756a8bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Axe_Rune_01.fbx using Guid(67f186f40f9105943a5a148f756a8bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39508289444bc4f72864cd413328660') in 0.045198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Banner_02_Convex.asset
+  artifactKey: Guid(316723f201a8eed48af6cc3422609a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Wep_Banner_02_Convex.asset using Guid(316723f201a8eed48af6cc3422609a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63bef60707a6402737751ab37406b982') in 0.024794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Banner_01.fbx
+  artifactKey: Guid(ad91e9cde57bfff45a3f12f973610773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Banner_01.fbx using Guid(ad91e9cde57bfff45a3f12f973610773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a354efd4e6548bd75fb82ce6c99f85') in 0.031985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Wep_Axe_Nature_01.fbx
+  artifactKey: Guid(faff77052de679a429191bb3d4de57b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Wep_Axe_Nature_01.fbx using Guid(faff77052de679a429191bb3d4de57b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b83bb31a8bfc9c5aff506d81c6a9b89') in 0.029151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.398562 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Trap_WallArrow_Hole_02.fbx
+  artifactKey: Guid(9dd66023ad840014d8f10be5f58db15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Trap_WallArrow_Hole_02.fbx using Guid(9dd66023ad840014d8f10be5f58db15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '421e7e53c274914e1f39a4f6a75dce9a') in 0.033282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Trap_Spears_01.fbx
+  artifactKey: Guid(ed0763b60f006b24b94165d33ef72639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Trap_Spears_01.fbx using Guid(ed0763b60f006b24b94165d33ef72639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d0884b971c474a29eac6d93c866802e') in 0.034002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Swing_Blade_Housing_01_Convex.asset
+  artifactKey: Guid(ac581e3d53abf624d893a37df4ad3212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Swing_Blade_Housing_01_Convex.asset using Guid(ac581e3d53abf624d893a37df4ad3212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b722a42b1ea2218799e0f7bbf86614') in 0.028242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Trap_Saw_01.fbx
+  artifactKey: Guid(ed9a7c46801e3584886ff1229b87c6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Trap_Saw_01.fbx using Guid(ed9a7c46801e3584886ff1229b87c6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee350f62688721102429a9a66742bbb') in 0.031041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Saw_02_Convex.asset
+  artifactKey: Guid(722c071ab465885478de9491dfd22a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Saw_02_Convex.asset using Guid(722c071ab465885478de9491dfd22a73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f45fff79f59ec0a489bcf08b7f1b774b') in 0.025729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Stool_01.fbx
+  artifactKey: Guid(5e901bb3c1091fb4782d5e36a9be13dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Stool_01.fbx using Guid(5e901bb3c1091fb4782d5e36a9be13dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a2426645a598922e4160055aaab8ce') in 0.032067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Metal_Fence_Weak_01_Convex.asset
+  artifactKey: Guid(9d18b70568ede8f488b3848bca2b3bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Metal_Fence_Weak_01_Convex.asset using Guid(9d18b70568ede8f488b3848bca2b3bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f74a8fd6c0f115fcd3f3563c141e2e') in 0.025530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Log_Spike_06_Convex.asset
+  artifactKey: Guid(2a1cff331a88f074bb96220962e8a58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Log_Spike_06_Convex.asset using Guid(2a1cff331a88f074bb96220962e8a58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df813a347deca7489cde65152aa2a37e') in 0.027124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Log_Spike_04.fbx
+  artifactKey: Guid(96baeac02c78b794da460ca24b47beed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Log_Spike_04.fbx using Guid(96baeac02c78b794da460ca24b47beed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd40b4e694d8aa337b8de109bd8d40f') in 0.032445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Jewel_01.fbx
+  artifactKey: Guid(0eb76cb0380c0f846869393b6230da7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Jewel_01.fbx using Guid(0eb76cb0380c0f846869393b6230da7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b181942bd1ba4e0f0dd0f371de6ab13') in 0.031710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Log_Spike_01_Convex.asset
+  artifactKey: Guid(40e67bccc7e23f54395cb999fa44c590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Log_Spike_01_Convex.asset using Guid(40e67bccc7e23f54395cb999fa44c590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c7a35b9e10b46f04493880650402ed') in 0.029885 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Gem_04.fbx
+  artifactKey: Guid(71183abc9739c314bb689ec1056a006f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Gem_04.fbx using Guid(71183abc9739c314bb689ec1056a006f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee15a6b9c942d49ccf6251e78fb371c6') in 0.035133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Gem_03_Convex.asset
+  artifactKey: Guid(3770b9a2bdef1a944a577429dc3bea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Gem_03_Convex.asset using Guid(3770b9a2bdef1a944a577429dc3bea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f28f4b90672230cf7ca28132d910b49') in 0.030337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Lantern_02_Convex.asset
+  artifactKey: Guid(3c85ec9c30c9a9d46aa6e94c912b2ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Lantern_02_Convex.asset using Guid(3c85ec9c30c9a9d46aa6e94c912b2ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c296200c9f7d19977d20871e010b1910') in 0.030691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Minecart_01.fbx
+  artifactKey: Guid(7a8aba712492c9a42936b58aeb11b21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Minecart_01.fbx using Guid(7a8aba712492c9a42936b58aeb11b21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f2838f7526bd43bcac71c76222a6d1') in 0.060762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Spears_Grate_01_Convex.asset
+  artifactKey: Guid(934661d6befa93542862d89b4b2efeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Spears_Grate_01_Convex.asset using Guid(934661d6befa93542862d89b4b2efeaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1222f23ce0f6833483b1087973cd04') in 0.026208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Stool_03_Convex.asset
+  artifactKey: Guid(b96169c834e1c1b47b72350f97a99937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Stool_03_Convex.asset using Guid(b96169c834e1c1b47b72350f97a99937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ae04dd4b1f5b5b82b2d748e4b280d2') in 0.027346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Goblin_Branch_01_Convex.asset
+  artifactKey: Guid(6eb2cc19f8954e64d9499d0ce1c50e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Goblin_Branch_01_Convex.asset using Guid(6eb2cc19f8954e64d9499d0ce1c50e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e054115112867ae09cc1c5f0b914e9') in 0.023075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Tech_Turbine_01_Convex.asset
+  artifactKey: Guid(1e90d943cdd77ec468a6c24fa8f2d2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Tech_Turbine_01_Convex.asset using Guid(1e90d943cdd77ec468a6c24fa8f2d2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58c09c9244b0d57dcaabab4a63c93e82') in 0.026783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Log_Spike_02.fbx
+  artifactKey: Guid(bdc7255c54670b846b6891a026b118fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Log_Spike_02.fbx using Guid(bdc7255c54670b846b6891a026b118fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a8a90927c6ed80e408532d88be54af') in 0.031497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Table_01.fbx
+  artifactKey: Guid(263264777e51ead4ba2b1b797735fadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Table_01.fbx using Guid(263264777e51ead4ba2b1b797735fadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60c0b237d34ef169193895913f79167') in 0.035827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Lantern_01_Convex.asset
+  artifactKey: Guid(7e7d3a8630c615f4c8c93956b1b6e36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Lantern_01_Convex.asset using Guid(7e7d3a8630c615f4c8c93956b1b6e36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6785b562f6c21328acc8ceaeda4667') in 0.032265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Goblin_Rotisserie_01_Convex.asset
+  artifactKey: Guid(fd4468db2b6a6cf4c8e38a0d947b9131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Goblin_Rotisserie_01_Convex.asset using Guid(fd4468db2b6a6cf4c8e38a0d947b9131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd924f47a7b86e48d83f315e9fe64f988') in 0.026309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Trap_Saw_02.fbx
+  artifactKey: Guid(c52b6bd3c33d14341a0a3442419bac52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Trap_Saw_02.fbx using Guid(c52b6bd3c33d14341a0a3442419bac52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1594103b575fee1a2218a86831be4e2') in 0.032162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Vase_03.fbx
+  artifactKey: Guid(75fa2378250dbe4459e576d99f9bbc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Vase_03.fbx using Guid(75fa2378250dbe4459e576d99f9bbc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2af3375e39f616b45ba68f41f94d71c') in 0.030782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Trap_WallArrow_Hole_01.fbx
+  artifactKey: Guid(f0351f254a370b5409fead2c8cbf025a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Trap_WallArrow_Hole_01.fbx using Guid(f0351f254a370b5409fead2c8cbf025a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6476e74cd3e392839954ccf10d20c0e4') in 0.028365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_FlameHead_01_Convex.asset
+  artifactKey: Guid(57e93cab9ec4bed4ba32225f32cbee92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_FlameHead_01_Convex.asset using Guid(57e93cab9ec4bed4ba32225f32cbee92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23345d3b834463acfbd000584b018e06') in 0.023382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Veh_Boat_01_Snow_Convex.asset
+  artifactKey: Guid(4b87fed60ba45ff4e971e92c60584369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Veh_Boat_01_Snow_Convex.asset using Guid(4b87fed60ba45ff4e971e92c60584369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f51afd2dedf0770daf7fd8b6950ac4c7') in 0.040425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Jewel_04.fbx
+  artifactKey: Guid(6c7f7aadab9ce2448a88e4cc019147ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Jewel_04.fbx using Guid(6c7f7aadab9ce2448a88e4cc019147ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d4f427a7f214c0c1b516fcffc67804') in 0.031557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Stool_02.fbx
+  artifactKey: Guid(991b4b8a6a64997439f9719e293659c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Stool_02.fbx using Guid(991b4b8a6a64997439f9719e293659c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b786128898de6867888e8dc2147ee3e') in 0.033646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Trap_Saw_Rail_02.fbx
+  artifactKey: Guid(1264c5750de56624195e599f60a521bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Trap_Saw_Rail_02.fbx using Guid(1264c5750de56624195e599f60a521bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c986bb2274fc129dc60585b609a93339') in 0.030194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_StoneTable_Broken_01_Convex 1.asset
+  artifactKey: Guid(c589a1bb7ee0cfd44972e25e42d79863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_StoneTable_Broken_01_Convex 1.asset using Guid(c589a1bb7ee0cfd44972e25e42d79863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82cf7e917647f0c08f345374d00dbd5') in 0.032321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Lantern_02.fbx
+  artifactKey: Guid(1d4861f05575b76479e3e93f4d1044ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Lantern_02.fbx using Guid(1d4861f05575b76479e3e93f4d1044ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4210953461956ab64c9238a9d25d4ce') in 0.029942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Goblin_Spikes_01_Convex.asset
+  artifactKey: Guid(448d3d8b1beb4a249b906c736d1bbbbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Goblin_Spikes_01_Convex.asset using Guid(448d3d8b1beb4a249b906c736d1bbbbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356a2a3be0c2fb2391fe32326d922a51') in 0.029516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Goblin_Rotisserie_Meat_01_Convex.asset
+  artifactKey: Guid(4bf3e631eaa2d694b83cc16a0091af69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Goblin_Rotisserie_Meat_01_Convex.asset using Guid(4bf3e631eaa2d694b83cc16a0091af69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd5e1c3c49f9d533e9a0c8280f8d556a') in 0.028435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Jewel_03_Convex.asset
+  artifactKey: Guid(2ea727fc54c311c4999034afa1ed7dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Jewel_03_Convex.asset using Guid(2ea727fc54c311c4999034afa1ed7dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2d901a0d6a49cb74e74285d2aeda25') in 0.028154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Tech_SwitchBoard_01_Convex.asset
+  artifactKey: Guid(a578c3a9ab60eca4aaad299b1a459798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Tech_SwitchBoard_01_Convex.asset using Guid(a578c3a9ab60eca4aaad299b1a459798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1568aee94298fdd990145581d9c3471f') in 0.026672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Jewel_04_Convex.asset
+  artifactKey: Guid(680f235d47a37ec43bbb2db33ff09005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Jewel_04_Convex.asset using Guid(680f235d47a37ec43bbb2db33ff09005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7727c362a6a13b87cfa8a9ec95fe54d9') in 0.025102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Gem_01_Convex.asset
+  artifactKey: Guid(1dd527cdb9f40ea4a84f8b8d2bf612b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Gem_01_Convex.asset using Guid(1dd527cdb9f40ea4a84f8b8d2bf612b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8e0d274a2459129e3447a2164087e2') in 0.026389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Gem_01.fbx
+  artifactKey: Guid(10ab4713f3d47bb40996da91e7d3fef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Gem_01.fbx using Guid(10ab4713f3d47bb40996da91e7d3fef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f7c9a2f7f99553e7a393d7b7966bcf') in 0.030547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Goblin_Branch_02.fbx
+  artifactKey: Guid(5dd759333607a0142966ae7d47269c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Goblin_Branch_02.fbx using Guid(5dd759333607a0142966ae7d47269c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999175b05fb6ed4608ec38cb5f146526') in 0.030960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Wall_Banner_06.fbx
+  artifactKey: Guid(db48b7a52f4d8124ebb2dbf81012dbc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Wall_Banner_06.fbx using Guid(db48b7a52f4d8124ebb2dbf81012dbc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8251d5d3294d3e8bbd90ac509bca3a0') in 0.029027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Goblin_Fence_02.fbx
+  artifactKey: Guid(65db6048e78e8314bb11b3d002cbb8f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Goblin_Fence_02.fbx using Guid(65db6048e78e8314bb11b3d002cbb8f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff29b0862dd93f2b33bffa286f8b408c') in 0.031701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Vase_06_Convex.asset
+  artifactKey: Guid(0cfaf8c8bd5088a46a30a67a385dbe33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Vase_06_Convex.asset using Guid(0cfaf8c8bd5088a46a30a67a385dbe33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7b891f01eef99cb2c15145c5efbb43') in 0.022195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Saw_Rail_01_Convex.asset
+  artifactKey: Guid(9e29ee196433ab04ab7756e4ac443fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Saw_Rail_01_Convex.asset using Guid(9e29ee196433ab04ab7756e4ac443fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d4cf2486bf7220a8c30341e54d02e7') in 0.023968 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Stool_03.fbx
+  artifactKey: Guid(9390e9641b4de5140bf98cefc29b7036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Stool_03.fbx using Guid(9390e9641b4de5140bf98cefc29b7036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7419211e019c519e1c24c7ce5ed14a95') in 0.030253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_TorchStick_01_Convex.asset
+  artifactKey: Guid(f04dfdd221012bd4ab4995cdc164ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_TorchStick_01_Convex.asset using Guid(f04dfdd221012bd4ab4995cdc164ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fdd4f50b4c86060f4483d229a3b9232') in 0.022531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Tech_Turbine_01.fbx
+  artifactKey: Guid(413bdd62c493cb04ea725b56805b2097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Tech_Turbine_01.fbx using Guid(413bdd62c493cb04ea725b56805b2097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9aeb0bbc30ffa836310befcb5db677f') in 0.029114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Vase_04.fbx
+  artifactKey: Guid(40c0fde0e15db214386e65dae5decbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Vase_04.fbx using Guid(40c0fde0e15db214386e65dae5decbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c777bb135b03d75660c4c936db80881') in 0.025718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Forge_Ventilation_01_Convex.asset
+  artifactKey: Guid(b1b5d50f6da0f2147be5836ae2f9fc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Forge_Ventilation_01_Convex.asset using Guid(b1b5d50f6da0f2147be5836ae2f9fc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b10f7c8abcbf0974d0efbf95cf0392f') in 0.020939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Forge_Ventilation_01.fbx
+  artifactKey: Guid(f52eca6f37e63a6439987972683c2db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Forge_Ventilation_01.fbx using Guid(f52eca6f37e63a6439987972683c2db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0473311e114992cd549e500ba33f58') in 0.031629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Fireplace_01_Convex.asset
+  artifactKey: Guid(4865f80e39d954b40a1cd054dfcbdb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Fireplace_01_Convex.asset using Guid(4865f80e39d954b40a1cd054dfcbdb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec2168325af06ac20fef17cf917c47b') in 0.028175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Torch_Ornate_01_Convex.asset
+  artifactKey: Guid(aca1b6f171ce6ff4193d311002e49466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Torch_Ornate_01_Convex.asset using Guid(aca1b6f171ce6ff4193d311002e49466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f292d5ba3198df0ffe8163e0d9b5fdd2') in 0.024273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Gem_05.fbx
+  artifactKey: Guid(4c5ac42975ba57542992d3a67338519e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Gem_05.fbx using Guid(4c5ac42975ba57542992d3a67338519e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '201b417499bcfcf1b255f63e43e19bcc') in 0.028837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Log_Spike_05_Convex.asset
+  artifactKey: Guid(5efbd22d94cffab40aa33e8c8efa7430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Log_Spike_05_Convex.asset using Guid(5efbd22d94cffab40aa33e8c8efa7430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8448931465a5805b18117feb584b6cb1') in 0.022751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Goblin_Spikes_01.fbx
+  artifactKey: Guid(4005043fea3574d4baa999bc147d97f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Goblin_Spikes_01.fbx using Guid(4005043fea3574d4baa999bc147d97f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '531582848251520986476800f3360a8b') in 0.031306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Trap_Saw_Rail_01.fbx
+  artifactKey: Guid(9b1553ae7ba66d242ae3ed8f0623d00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Trap_Saw_Rail_01.fbx using Guid(9b1553ae7ba66d242ae3ed8f0623d00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8197e299b7c0e79a9f56ddb1c85413d') in 0.026780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Plank_01_Convex.asset
+  artifactKey: Guid(1f7c13d4ec263ea45af179adc99c387a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Plank_01_Convex.asset using Guid(1f7c13d4ec263ea45af179adc99c387a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd7f9d7c26f142fe2bc99f657f52e49') in 0.023527 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_AcidHead_01_Convex.asset
+  artifactKey: Guid(da54cc63f2c7b3e40be6c8ae248261f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_AcidHead_01_Convex.asset using Guid(da54cc63f2c7b3e40be6c8ae248261f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1cce9141e3f9fd0b146c1a1a1ab5045') in 0.022584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Jewel_01_Convex.asset
+  artifactKey: Guid(b11108ddd3d73824f9024437884ab84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Jewel_01_Convex.asset using Guid(b11108ddd3d73824f9024437884ab84d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd41f23abb30e7128d881691d22c212a') in 0.027051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Spears_01_Convex.asset
+  artifactKey: Guid(c8f63325df0dc43438718b0c1e304075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Trap_Spears_01_Convex.asset using Guid(c8f63325df0dc43438718b0c1e304075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6459866060661a4683f2cf994d64fed8') in 0.024338 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Gem_02.fbx
+  artifactKey: Guid(fdfedd4b2a8a45247b636a02b4dc9726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Gem_02.fbx using Guid(fdfedd4b2a8a45247b636a02b4dc9726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076102ad7ca05f2b3d87dbd69373ea18') in 0.029739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Fireplace_01.fbx
+  artifactKey: Guid(df7331121db8d214fabb952879d9ca35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Fireplace_01.fbx using Guid(df7331121db8d214fabb952879d9ca35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cccbfc3f19c5d11890e56cbe1bf1a4cb') in 0.027803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Door_Metal_02_Convex.asset
+  artifactKey: Guid(e47f2b78467ad5945b0d3258bf803daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Door_Metal_02_Convex.asset using Guid(e47f2b78467ad5945b0d3258bf803daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad2adc038a6bd5f3ded9eb5a637e666') in 0.023823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002602 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Door_Metal_01.fbx
+  artifactKey: Guid(dd19bfb37217a7042b5757519961c10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Door_Metal_01.fbx using Guid(dd19bfb37217a7042b5757519961c10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d120d9256b26d13537de44466a5b2bb') in 0.029829 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.235219 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Wood_05.fbx
+  artifactKey: Guid(40f616b9cefa9bd488c999d908e33950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Wood_05.fbx using Guid(40f616b9cefa9bd488c999d908e33950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f460096b6a13bbf84657a62ae9f242f8') in 0.030959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Crate_Wood_03_Convex.asset
+  artifactKey: Guid(6cfd09de39cd13c439c6262184d83190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Crate_Wood_03_Convex.asset using Guid(6cfd09de39cd13c439c6262184d83190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15aa8349f17af31911e45c3ca473dc60') in 0.026943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028546 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Wood_03.fbx
+  artifactKey: Guid(972922a72f09e054d9889bbeb346d908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Wood_03.fbx using Guid(972922a72f09e054d9889bbeb346d908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4a61c1af230ec7f0d064023d60afdf0') in 0.035287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.309663 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Wood_02.fbx
+  artifactKey: Guid(f7056fed3c9e01e4a9c3757919c1720c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Wood_02.fbx using Guid(f7056fed3c9e01e4a9c3757919c1720c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da06275988595dd892e8a4d888aade0') in 0.028582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.061843 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Wood_01.fbx
+  artifactKey: Guid(29884fa09a9f4ba4182a8c6c0198cc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Wood_01.fbx using Guid(29884fa09a9f4ba4182a8c6c0198cc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa1cdcc2f4fbf84c149c0394564a3da') in 0.029347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.253963 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Rocks_01.fbx
+  artifactKey: Guid(5747c765d63ad5b4b81af402eb6af29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Rocks_01.fbx using Guid(5747c765d63ad5b4b81af402eb6af29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94fa2f4d39f6cbfd3007debdbaf3afa') in 0.031214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.065077 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Ornate_01.fbx
+  artifactKey: Guid(fba2cfc8eca2de846a79fee5c6966b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Ornate_01.fbx using Guid(fba2cfc8eca2de846a79fee5c6966b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36b99a64f6034d5b808044ba838c172') in 0.034465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Metal_Open_01.fbx
+  artifactKey: Guid(a1ad16aa18b813a4dbf4f93e22714cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Metal_Open_01.fbx using Guid(a1ad16aa18b813a4dbf4f93e22714cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc74216c1f96988f5077887e989297e') in 0.037170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.225966 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Metal_03.fbx
+  artifactKey: Guid(0dca90b8d3c13444e890a821a2e0ed67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Metal_03.fbx using Guid(0dca90b8d3c13444e890a821a2e0ed67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d7f968a8e6c2326b0154f415df55ea2') in 0.037563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023102 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Metal_02.fbx
+  artifactKey: Guid(95f17f1987b91914ebbebb0e226068b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Metal_02.fbx using Guid(95f17f1987b91914ebbebb0e226068b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dfbb6a855c6f0ddc8e9039de679db7e') in 0.037121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.263934 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Crate_Metal_01.fbx
+  artifactKey: Guid(dd0ff36f6055904419f85bbb69b81226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Crate_Metal_01.fbx using Guid(dd0ff36f6055904419f85bbb69b81226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9c2128b918390d93a7f3667380ca6c') in 0.050231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Coffin_01_Convex.asset
+  artifactKey: Guid(adc4000b19c0f00428190dae9a9dc354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Coffin_01_Convex.asset using Guid(adc4000b19c0f00428190dae9a9dc354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c802490ddac2675be79711854c58650d') in 0.031106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.323667 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Chest_Wood_01.fbx
+  artifactKey: Guid(ff39a586e0eadf645b6f4f0b0091cb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Chest_Wood_01.fbx using Guid(ff39a586e0eadf645b6f4f0b0091cb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfe9ea9d6f4205c36bf799ffc5f1477') in 0.049613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.070680 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Chest_04.fbx
+  artifactKey: Guid(c3fea00227521ec4497d3695dea472b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Chest_04.fbx using Guid(c3fea00227521ec4497d3695dea472b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1eaced762a10df47de9a07c9e362dbc') in 0.039209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.837608 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Chest_03.fbx
+  artifactKey: Guid(10736031d03b05145aa00c737e533cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Chest_03.fbx using Guid(10736031d03b05145aa00c737e533cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4144e3fe3ac4908734e3e4df4aa1ac5a') in 0.048866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.673069 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Chest_02.fbx
+  artifactKey: Guid(197e893ef860ccb4a81a5196dea31dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Chest_02.fbx using Guid(197e893ef860ccb4a81a5196dea31dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa3080dc8fcc427a86b426f9500d0d6a') in 0.060787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.071115 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Chest_01.fbx
+  artifactKey: Guid(66313392e42faee469a173d021384846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Chest_01.fbx using Guid(66313392e42faee469a173d021384846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0def9c37d2fd1cb18bea40e5ccaa2035') in 0.058191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.577718 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Chain_08_Convex.asset
+  artifactKey: Guid(7f1a5694420f6ed4b8ee195b961a2957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Chain_08_Convex.asset using Guid(7f1a5694420f6ed4b8ee195b961a2957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b18e83745544f470853a78855af925a8') in 0.032074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.549948 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Chain_06.fbx
+  artifactKey: Guid(209e92f6a51764546844d9ead408938a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Chain_06.fbx using Guid(209e92f6a51764546844d9ead408938a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ecf13704e327919c614bbd0233cc05') in 0.042329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.005132 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Chain_03.fbx
+  artifactKey: Guid(6f623fc1a69cd914c8da3feda6371a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Chain_03.fbx using Guid(6f623fc1a69cd914c8da3feda6371a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ad487cf7e18aaff8eac1320e2c025c') in 0.033356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.371643 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Chain_01.fbx
+  artifactKey: Guid(7472af7eccc469f4bbb6a36f333f7cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Chain_01.fbx using Guid(7472af7eccc469f4bbb6a36f333f7cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6fe7c0dff190984d9212409e8a2bb1') in 0.040896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.778158 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Candles_04_Convex.asset
+  artifactKey: Guid(48a1a07491891cf41a8d0af3b3e5c438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Candles_04_Convex.asset using Guid(48a1a07491891cf41a8d0af3b3e5c438) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50adde28c5514efb929620c4929c1c70') in 0.031671 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.356905 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Candles_03.fbx
+  artifactKey: Guid(acf2c3184d075a74eb537e1dfa14247f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Candles_03.fbx using Guid(acf2c3184d075a74eb537e1dfa14247f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eef88b312822e259c0a29231119a5b4') in 0.033601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.615757 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Candles_01.fbx
+  artifactKey: Guid(9051bc3382896064d8450d578557f2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Candles_01.fbx using Guid(9051bc3382896064d8450d578557f2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16956a9edb1ca87085f7fb520941b49') in 0.042377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.416255 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Candle_Flame_01.fbx
+  artifactKey: Guid(6f9115bd4317a23498b706a4cc7bc5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Candle_Flame_01.fbx using Guid(6f9115bd4317a23498b706a4cc7bc5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb1c29f7c4bf572a64f537c5f44766d') in 0.045437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.308160 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Candle_02.fbx
+  artifactKey: Guid(8c2c6f5477ca71749a3bc214129e2068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Candle_02.fbx using Guid(8c2c6f5477ca71749a3bc214129e2068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1efdb936350319803ca1d84c85b9a6f3') in 0.043265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.572284 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Brazier_01.fbx
+  artifactKey: Guid(8da7fe670af56c140881c9d5e9c9ee7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Brazier_01.fbx using Guid(8da7fe670af56c140881c9d5e9c9ee7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cde429621a7c5fff39b639ab56e14f09') in 0.036372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.403635 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Bookcase_02.fbx
+  artifactKey: Guid(6b95360b7154bc948957219dd6d67932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Bookcase_02.fbx using Guid(6b95360b7154bc948957219dd6d67932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e7b60bf8ab39d782db0468d2814294') in 0.055907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.366212 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Prop_Bed_02.fbx
+  artifactKey: Guid(b75922d16c88e6445bb0a596b880214e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Prop_Bed_02.fbx using Guid(b75922d16c88e6445bb0a596b880214e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b92fb0ea29c405d5ee5c598688a6a9') in 0.033528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Item_Coins_01.fbx
+  artifactKey: Guid(6dddc8cf875f97a4a99d89cc70fbbdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Item_Coins_01.fbx using Guid(6dddc8cf875f97a4a99d89cc70fbbdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5010b89e0680a0a0ed234590cc2083b4') in 0.035470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Item_Coins_02_Convex.asset
+  artifactKey: Guid(7d9da94a069c48b45a5f144ea5386db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Item_Coins_02_Convex.asset using Guid(7d9da94a069c48b45a5f144ea5386db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063de739eb4caee5a1b8e1185d62da19') in 0.028539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Wall_Window_Bars_02_Convex.asset
+  artifactKey: Guid(ed3e62e17a5f5d64ba6d3c0d2d8b5f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Wall_Window_Bars_02_Convex.asset using Guid(ed3e62e17a5f5d64ba6d3c0d2d8b5f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba4423a046d9a272473f82fa45ccca3') in 0.037069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Stalagmite_02_Convex.asset
+  artifactKey: Guid(20633e4e5c8f07d479ce5e04264a345a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Stalagmite_02_Convex.asset using Guid(20633e4e5c8f07d479ce5e04264a345a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9fdf019788aa8400a7bf0c58aba775') in 0.027611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Item_Coins_03_Convex.asset
+  artifactKey: Guid(f1e9cfd581ff10243885968992c95e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Item_Coins_03_Convex.asset using Guid(f1e9cfd581ff10243885968992c95e23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3b7867f3ef2c344e33c4341a764dc5') in 0.029670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Item_BookPile_01_Convex.asset
+  artifactKey: Guid(50373ef09678c6c408c14c282697ae6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Item_BookPile_01_Convex.asset using Guid(50373ef09678c6c408c14c282697ae6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e0932d4bcc8badc004fa89c3e0f7307') in 0.032978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_RockPile_Square_06_Convex.asset
+  artifactKey: Guid(1b6cb654164c77e4884c5ecfc84d3be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_RockPile_Square_06_Convex.asset using Guid(1b6cb654164c77e4884c5ecfc84d3be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dac2b24c8ac7b2019294b0c0fc80a7fc') in 0.027462 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Stalactite_05_Convex.asset
+  artifactKey: Guid(16b50fb372ffe4b4e9129a20452c2b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Stalactite_05_Convex.asset using Guid(16b50fb372ffe4b4e9129a20452c2b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe2fc43c725c4dbc5877762ead51ef23') in 0.027243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/PolygonDungeon/Models/SM_Env_Wall_Window_02.fbx
+  artifactKey: Guid(4aea3a81f2b3ead4a92f8e92fcf7b671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/SM_Env_Wall_Window_02.fbx using Guid(4aea3a81f2b3ead4a92f8e92fcf7b671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c8ff0e52f59bfc5a6b84dd5590cd7e7') in 0.029113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Bone_Skull_02_Convex.asset
+  artifactKey: Guid(d0d0965f86c1dc34b9f4724cf728e6c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Bone_Skull_02_Convex.asset using Guid(d0d0965f86c1dc34b9f4724cf728e6c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07344b96483ebea7e69e8cc41cc7522f') in 0.027908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Bone_Skull_01_Convex.asset
+  artifactKey: Guid(88805e04407059c43ba01e0473af7c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Bone_Skull_01_Convex.asset using Guid(88805e04407059c43ba01e0473af7c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '178d035ba54d8b61af0e20200d048ffe') in 0.027135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Pillar_Broken_01_Convex.asset
+  artifactKey: Guid(7259e4c78d2a266409fa7e8448fe5ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Pillar_Broken_01_Convex.asset using Guid(7259e4c78d2a266409fa7e8448fe5ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c066a4c56ab04b0bbf5d0364026791bf') in 0.024819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Stalactite_03_Convex.asset
+  artifactKey: Guid(048ba10cadb19fc469d5356e053f9b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Stalactite_03_Convex.asset using Guid(048ba10cadb19fc469d5356e053f9b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1f48c0237bf51a6be810efdaaf98b0') in 0.021419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Door_Large_Frame_02_Convex 3.asset
+  artifactKey: Guid(a4c380726ca757a4eb065c7c91ffdfa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Env_Door_Large_Frame_02_Convex 3.asset using Guid(a4c380726ca757a4eb065c7c91ffdfa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a939731a303295e0dcfd2633f8efa598') in 0.036770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Bench_01_Convex.asset
+  artifactKey: Guid(2e4d751b69f42bc41a4a98622064be32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonDungeon/Models/CollisionConvex/SM_Prop_Bench_01_Convex.asset using Guid(2e4d751b69f42bc41a4a98622064be32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68d96d7c64d64df6fcd8350d145f43d') in 0.021451 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
