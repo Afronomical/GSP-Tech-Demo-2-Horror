@@ -36,14 +36,14 @@ public class NoteController : InteractableObjectScript
         SetNoteCanvasText(page.text);
         InputHandler.instance.ChangeInputState(InputHandler.PlayerInputStates.Interacting);
         noteCanvas.SetActive(true);
-        noteIsOpen= true;
+        
     }
 
     public void DisableNote()
     {
         InputHandler.instance.ChangeInputState(InputHandler.PlayerInputStates.Movement);
         noteCanvas.SetActive(false);
-        noteIsOpen= false;
+        
         translatingText = false;
         translateCanvas.SetActive(false);
         SetNoteCanvasText("");

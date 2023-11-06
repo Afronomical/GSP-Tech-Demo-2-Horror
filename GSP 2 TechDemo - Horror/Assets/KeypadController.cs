@@ -26,6 +26,8 @@ public class KeypadController : MonoBehaviour
 
     [SerializeField]KeypadMode keypadMode;
 
+    public GameObject gate;
+
     public enum KeypadMode {reading, incorrect, correct}
 
    
@@ -40,11 +42,6 @@ public class KeypadController : MonoBehaviour
         keypadMode = KeypadMode.reading;
     }
 
-    private void Update()
-    {
-        
-    }
-
     public void addNumber(int num)
     {
         if (SpaceToType() && !answerCorrect && canType)
@@ -56,7 +53,7 @@ public class KeypadController : MonoBehaviour
 
             }
 
-            checkAnswer();
+            
         }
         
     }
@@ -157,7 +154,7 @@ public class KeypadController : MonoBehaviour
 
     private void UnlockKeypad()
     {
-
+        gate.SetActive(false);
     }
     
 }

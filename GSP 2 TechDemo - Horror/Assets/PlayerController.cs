@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
 
     private Inventory inventory;
     [SerializeField] UIInventory uiInventory;
+    bool inventoryToggle = false;
 
     private void Start()
     {
@@ -18,31 +19,31 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        bool inventoryToggle = false;
-
-        if(Input.GetKeyDown(KeyCode.Tab))
+        
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            if (inventoryToggle)
-            {
-                inventoryToggle = !inventoryToggle;
-                uiInventory.SetInventory(inventory);
-                uiInventory.gameObject.SetActive(inventoryToggle);
-                if (inventoryToggle)
-                {
-                    InputHandler.instance.ChangeInputState(InputHandler.PlayerInputStates.Interacting);
-                    
-                }
-                else
-                {
-                    InputHandler.instance.ChangeInputState(InputHandler.PlayerInputStates.Movement);
-                }
-                
-            }
-            else
-            {
+            ToggleInventory(); 
 
-            }
         }
     }
+    
     public Inventory getInventory() { return inventory; }
+
+    public void ToggleInventory()
+    {
+
+        if(uiInventory.gameObject.activeSelf == false)
+        {
+            Debug.Log("Inventory on");
+
+            InputHandler.instance.ChangeInputState(InputHandler.PlayerInputStates.Interacting);
+            uiInventory.gameObject.SetActive(true);
+        }
+        else
+        {
+            Debug.Log("Inventory off");
+            InputHandler.instance.ChangeInputState(InputHandler.PlayerInputStates.Movement);
+            uiInventory.gameObject.SetActive(false);
+        }
+    }
 }

@@ -22,7 +22,7 @@ public class KeypadInteractable : InteractableObjectScript
     {
         if (Input.GetKeyDown(KeyCode.Escape) && keypad.activeInHierarchy)
         {
-            InputHandler.instance.ChangeInputState(InputHandler.PlayerInputStates.Movement);
+            ExitKeypad();
             //keypad.SetActive(false);
             
         }
@@ -46,5 +46,8 @@ public class KeypadInteractable : InteractableObjectScript
     {
         ResetInteractUI();
     }
-
+    public void ExitKeypad()
+    {
+        InputHandler.instance.ChangeInputState(InputHandler.PlayerInputStates.Movement);
+    }
 }
