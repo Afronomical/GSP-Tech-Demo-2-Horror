@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bf51fd7ee42b02f4c91f8c3357b468eb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 12
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - bedtime stories
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4d2e718a0735b2c4fa9ae9a087aa8120, type: 3}
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

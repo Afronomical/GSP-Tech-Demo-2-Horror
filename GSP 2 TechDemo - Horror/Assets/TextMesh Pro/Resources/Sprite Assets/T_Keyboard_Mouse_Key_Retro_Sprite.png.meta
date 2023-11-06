@@ -1,0 +1,2225 @@
+fileFormatVersion: 2
+guid: acf1747d7f8996a4796e71adf4c1a107
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebab4df9030d6c4419726fac0aa863e5
+      internalID: 1742629091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024404fd1ca23b242a848711833cb695
+      internalID: -2102895301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b36a2d980374ba4f97ad3e53768b2f1
+      internalID: -414554267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7e2875da50374abca97101f58fbbd
+      internalID: -1648254818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f84ebfd55217c4b83d878d00ad4c8b
+      internalID: 914930013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67955be6ca0b608439369b001a1e7c36
+      internalID: 2115140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fca1744e0af3643badc23c5f19a044
+      internalID: 2093923002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf342a2dad99741ba5328546725d91
+      internalID: -175238469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b3a8b92cab4104d94c424c6051666c
+      internalID: 932763147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 470
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba952409921d043a047a7bf7f19a66
+      internalID: -207570723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a311f454fb39340a0c73d4356ab101
+      internalID: 1893237286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e14c9b266fc4e43aa2d7802635c192
+      internalID: -1253101650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302a093570dc6b43bc5ea3152e05e33
+      internalID: -1312068044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6eb6093a88c6b488205919dd34de3e
+      internalID: 1017625592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa24ebadbe3be34dae15f16ed0e6d5b
+      internalID: 446888855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a48dc5ebcc03934f99e69efa7444471
+      internalID: -1921603556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b397e91ecbc08ae468efb56f7f4d3f1f
+      internalID: 341562394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5704a348cbd7f0b44a4824cfc28c609b
+      internalID: -859247547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41036a5ec1efe44591c29e2cf6bc30a
+      internalID: 1590471728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 418
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b7235816032b5429b20b6decc6e140
+      internalID: 326676700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832cc35930e63e44daf3d31b405ac5ec
+      internalID: 363830926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf731c3ea542b94d9423b145c02af69
+      internalID: 965865302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad1aafdc640f744893d69a6d5cba27b
+      internalID: -582570120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992de040b9be16e4e996ca44cdc39086
+      internalID: 232000292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d96113e60aa742bc843a510876372
+      internalID: -1827711461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e370a058ae386d94398f0cc91e05e733
+      internalID: -1082135070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfad799c82ba9db4bac2f2b8cf727e12
+      internalID: -512654769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72f404aa57ee254cb4b9cd529593027
+      internalID: -1453376377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009bf43c08aa7b84b9751cab8ce87e67
+      internalID: -1740562153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 366
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544fd394f685fa2448feb1f5d1e36bc2
+      internalID: 366294007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac202db486fb124cb94a52bd13f9794
+      internalID: 235999624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbd532c5e00eb74f9c1edaa277f6e68
+      internalID: -645791165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d279c81fdbe26541b2db76b3a6ee9a4
+      internalID: 584149167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2d291c3a41b2244a6d1bcffb9f5da2
+      internalID: -973968238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d342ebb6d8a683645a761cfb1dc42b8c
+      internalID: -1892522628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbddd0434a4b24f4c85dbf999ec3b052
+      internalID: 1946861405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea3d55db465dd4ea635da31cc80723
+      internalID: -785139765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d327ef8311ec93145a45ad2ff8bdeb6f
+      internalID: 1149821158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83f5f9af730cac4e835a4f7c3e050bd
+      internalID: -1693830502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 314
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02f4ea6f6b31ac438f6ef510bd56ca8
+      internalID: -213123022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b719bd20e2d0ae84caab2be7003fd1b5
+      internalID: 1464356925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b0e87438c47b54ab0ee48029862d95
+      internalID: 2144690537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9812c92bb9a06469c0ee8cde7dab65
+      internalID: -953918090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc519caf745633489aeee1a87ed5499
+      internalID: 1665541818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da863545180974147bcbde2deb5311b8
+      internalID: 40542509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b335c8c4d6c5b7a47b7e8e74c5593a34
+      internalID: -1776116891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a107db4301942a4f90e2b362bdd656f
+      internalID: -68764062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c63d629a07bf44becb9b2d962252d
+      internalID: -1996708740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c7b3d552aa1104f970548bd6593fc2
+      internalID: 1128736526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 262
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d323854b644d6449e9c5df231ccf01
+      internalID: -2146721313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4964f120da2c44289bac54dee3133b
+      internalID: 1581741158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c744592dc78c842bed5380573d6fca
+      internalID: 1647951376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708cf61b07fd5743af7ffef6acda793
+      internalID: 480627972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df62875d548ff40b42557a77cd6b61
+      internalID: -446730707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b844b5c2fa5d29045848a81edbdb470a
+      internalID: 1487891932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157fbf819d666e94a8ff8a87bf98a6e2
+      internalID: 1342144541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac60be1e42233a749bd75bc64a44f756
+      internalID: -1020579697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562b43eafe987a47a8c44ea293df31d
+      internalID: -874195370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0199589677a9b0d42ac83266ad4ed23c
+      internalID: -1360657441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 210
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1203725bde80cc43affe0853c026ef2
+      internalID: 321786507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07cbc8aaa3d27e4fa637a29eedab777
+      internalID: -727486285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4e7d705982de42999f72dd0985f63
+      internalID: 1207583792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a283bea57c40444ebad87083342d7e4
+      internalID: -808939587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d645e63c7f87f7e48a70bd9363d4395a
+      internalID: -1986478912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de22169cff6aa49a0bf8fe68f5277e
+      internalID: 1810203796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d135a9c17565d47b7e4122e0ecabe6
+      internalID: 158377794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e99cf7f4a5d09409e6efbf579bfe67
+      internalID: -933217827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8746b5cae93374793600772eb43635
+      internalID: -1008798307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91090ab57b81b054b838ef5c42b6f2cc
+      internalID: -1698590999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 158
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9165447040067e4cba0379c5e3b6629
+      internalID: -386828182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc652725da2462f46a1e7d0e33e067f5
+      internalID: -1564657505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491ea457e25c0be4dae35fb4222195a8
+      internalID: -1460002463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044a54b776442349b0da81bf9187816
+      internalID: -472303822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39061b6529fe3a47960432c47815548
+      internalID: -878297084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec61eb679255e91448bd0fdb8a44d766
+      internalID: -1150244413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154ed204fb757414f8721960888ea9f3
+      internalID: 1804770233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c684793195854e94690a7bfba2cfc503
+      internalID: -196407519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03743387bf21c96479f543d04ecd3f47
+      internalID: 215179996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c4cf1b0adeb6f428632b9893d4b27c
+      internalID: 2063317952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 106
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc86975c824270c46922346d42bc0a6c
+      internalID: 1709811265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65851ae0887c9614b941669d2f501ec3
+      internalID: -1689516557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2116ddd7799e8974794a90e3518736e8
+      internalID: -1031404829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af4d23c69251eb4f8665dcd40f44785
+      internalID: 501778553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6497877c7485404bbdca8057b2428f3
+      internalID: 528373493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b602dafacd10145a686b136d6f172a
+      internalID: -855091089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e131349510e192a44914f538fd55861e
+      internalID: -1821488164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89b41f9deb9d549995e0ca1bedbe64
+      internalID: 498160780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed6eca81f660b429c6689f068ddb3f
+      internalID: 254779818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47abb6cfa8092949903e772e690edc8
+      internalID: 525105483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 54
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df075e2c234e9c74ba194550fb54ece2
+      internalID: -493359925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513596af035fe0d489b701bcecf29808
+      internalID: -1608296961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d57bc8b3326b744ace92ac6569c41c
+      internalID: -985032225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb3ef9c4735934080d64a9384ffd7d
+      internalID: 859034324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191389cc00a5a644858750803ac8e99
+      internalID: 237823041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Keyboard_Mouse_Key_Retro_Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 39
+        height: 40
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8247bcce86b2cef45b2a0744586ec64c
+      internalID: 561828948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      T_Keyboard_Mouse_Key_Retro_Sprite_15: -1921603556
+      T_Keyboard_Mouse_Key_Retro_Sprite_43: 1665541818
+      T_Keyboard_Mouse_Key_Retro_Sprite_35: 1946861405
+      T_Keyboard_Mouse_Key_Retro_Sprite_77: 215179996
+      T_Keyboard_Mouse_Key_Retro_Sprite_28: -1740562153
+      T_Keyboard_Mouse_Key_Retro_Sprite_67: -1008798307
+      T_Keyboard_Mouse_Key_Retro_Sprite_46: -68764062
+      T_Keyboard_Mouse_Key_Retro_Sprite_8: 932763147
+      T_Keyboard_Mouse_Key_Retro_Sprite_79: 1709811265
+      T_Keyboard_Mouse_Key_Retro_Sprite_53: -446730707
+      T_Keyboard_Mouse_Key_Retro_Sprite_6: 2093923002
+      T_Keyboard_Mouse_Key_Retro_Sprite_47: -1996708740
+      T_Keyboard_Mouse_Key_Retro_Sprite_84: -855091089
+      T_Keyboard_Mouse_Key_Retro_Sprite_63: -1986478912
+      T_Keyboard_Mouse_Key_Retro_Sprite_26: -512654769
+      T_Keyboard_Mouse_Key_Retro_Sprite_23: 232000292
+      T_Keyboard_Mouse_Key_Retro_Sprite_27: -1453376377
+      T_Keyboard_Mouse_Key_Retro_Sprite_56: -1020579697
+      T_Keyboard_Mouse_Key_Retro_Sprite_68: -1698590999
+      T_Keyboard_Mouse_Key_Retro_Sprite_19: 326676700
+      T_Keyboard_Mouse_Key_Retro_Sprite_69: -386828182
+      T_Keyboard_Mouse_Key_Retro_Sprite_52: 480627972
+      T_Keyboard_Mouse_Key_Retro_Sprite_24: -1827711461
+      T_Keyboard_Mouse_Key_Retro_Sprite_4: 914930013
+      T_Keyboard_Mouse_Key_Retro_Sprite_32: 584149167
+      T_Keyboard_Mouse_Key_Retro_Sprite_81: -1031404829
+      T_Keyboard_Mouse_Key_Retro_Sprite_7: -175238469
+      T_Keyboard_Mouse_Key_Retro_Sprite_78: 2063317952
+      T_Keyboard_Mouse_Key_Retro_Sprite_14: 446888855
+      T_Keyboard_Mouse_Key_Retro_Sprite_17: -859247547
+      T_Keyboard_Mouse_Key_Retro_Sprite_22: -582570120
+      T_Keyboard_Mouse_Key_Retro_Sprite_40: 1464356925
+      T_Keyboard_Mouse_Key_Retro_Sprite_92: 859034324
+      T_Keyboard_Mouse_Key_Retro_Sprite_74: -1150244413
+      T_Keyboard_Mouse_Key_Retro_Sprite_30: 235999624
+      T_Keyboard_Mouse_Key_Retro_Sprite_62: -808939587
+      T_Keyboard_Mouse_Key_Retro_Sprite_66: -933217827
+      T_Keyboard_Mouse_Key_Retro_Sprite_86: 498160780
+      T_Keyboard_Mouse_Key_Retro_Sprite_33: -973968238
+      T_Keyboard_Mouse_Key_Retro_Sprite_87: 254779818
+      T_Keyboard_Mouse_Key_Retro_Sprite_37: 1149821158
+      T_Keyboard_Mouse_Key_Retro_Sprite_55: 1342144541
+      T_Keyboard_Mouse_Key_Retro_Sprite_82: 501778553
+      T_Keyboard_Mouse_Key_Retro_Sprite_76: -196407519
+      T_Keyboard_Mouse_Key_Retro_Sprite_20: 363830926
+      T_Keyboard_Mouse_Key_Retro_Sprite_88: 525105483
+      T_Keyboard_Mouse_Key_Retro_Sprite_89: -493359925
+      T_Keyboard_Mouse_Key_Retro_Sprite_36: -785139765
+      T_Keyboard_Mouse_Key_Retro_Sprite_5: 2115140
+      T_Keyboard_Mouse_Key_Retro_Sprite_91: -985032225
+      T_Keyboard_Mouse_Key_Retro_Sprite_90: -1608296961
+      T_Keyboard_Mouse_Key_Retro_Sprite_1: -2102895301
+      T_Keyboard_Mouse_Key_Retro_Sprite_85: -1821488164
+      T_Keyboard_Mouse_Key_Retro_Sprite_3: -1648254818
+      T_Keyboard_Mouse_Key_Retro_Sprite_44: 40542509
+      T_Keyboard_Mouse_Key_Retro_Sprite_42: -953918090
+      T_Keyboard_Mouse_Key_Retro_Sprite_51: 1647951376
+      T_Keyboard_Mouse_Key_Retro_Sprite_12: -1312068044
+      T_Keyboard_Mouse_Key_Retro_Sprite_41: 2144690537
+      T_Keyboard_Mouse_Key_Retro_Sprite_50: 1581741158
+      T_Keyboard_Mouse_Key_Retro_Sprite_38: -1693830502
+      T_Keyboard_Mouse_Key_Retro_Sprite_2: -414554267
+      T_Keyboard_Mouse_Key_Retro_Sprite_94: 561828948
+      T_Keyboard_Mouse_Key_Retro_Sprite_34: -1892522628
+      T_Keyboard_Mouse_Key_Retro_Sprite_31: -645791165
+      T_Keyboard_Mouse_Key_Retro_Sprite_49: -2146721313
+      T_Keyboard_Mouse_Key_Retro_Sprite_16: 341562394
+      T_Keyboard_Mouse_Key_Retro_Sprite_80: -1689516557
+      T_Keyboard_Mouse_Key_Retro_Sprite_11: -1253101650
+      T_Keyboard_Mouse_Key_Retro_Sprite_25: -1082135070
+      T_Keyboard_Mouse_Key_Retro_Sprite_57: -874195370
+      T_Keyboard_Mouse_Key_Retro_Sprite_70: -1564657505
+      T_Keyboard_Mouse_Key_Retro_Sprite_58: -1360657441
+      T_Keyboard_Mouse_Key_Retro_Sprite_29: 366294007
+      T_Keyboard_Mouse_Key_Retro_Sprite_0: 1742629091
+      T_Keyboard_Mouse_Key_Retro_Sprite_73: -878297084
+      T_Keyboard_Mouse_Key_Retro_Sprite_61: 1207583792
+      T_Keyboard_Mouse_Key_Retro_Sprite_10: 1893237286
+      T_Keyboard_Mouse_Key_Retro_Sprite_83: 528373493
+      T_Keyboard_Mouse_Key_Retro_Sprite_71: -1460002463
+      T_Keyboard_Mouse_Key_Retro_Sprite_65: 158377794
+      T_Keyboard_Mouse_Key_Retro_Sprite_72: -472303822
+      T_Keyboard_Mouse_Key_Retro_Sprite_21: 965865302
+      T_Keyboard_Mouse_Key_Retro_Sprite_39: -213123022
+      T_Keyboard_Mouse_Key_Retro_Sprite_93: 237823041
+      T_Keyboard_Mouse_Key_Retro_Sprite_64: 1810203796
+      T_Keyboard_Mouse_Key_Retro_Sprite_48: 1128736526
+      T_Keyboard_Mouse_Key_Retro_Sprite_9: -207570723
+      T_Keyboard_Mouse_Key_Retro_Sprite_45: -1776116891
+      T_Keyboard_Mouse_Key_Retro_Sprite_13: 1017625592
+      T_Keyboard_Mouse_Key_Retro_Sprite_60: -727486285
+      T_Keyboard_Mouse_Key_Retro_Sprite_59: 321786507
+      T_Keyboard_Mouse_Key_Retro_Sprite_18: 1590471728
+      T_Keyboard_Mouse_Key_Retro_Sprite_54: 1487891932
+      T_Keyboard_Mouse_Key_Retro_Sprite_75: 1804770233
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
