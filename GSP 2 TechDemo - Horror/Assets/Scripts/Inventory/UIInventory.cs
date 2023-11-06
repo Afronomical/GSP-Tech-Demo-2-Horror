@@ -33,16 +33,18 @@ public class UIInventory : MonoBehaviour
         int y = 0;
         float itemSlotCellSize = 70f;
 
+        foreach (Transform child in itemSlotContainer)
+        {
+            if (child == itemSlotTemplate)
+                continue;
+
+            Destroy(child.gameObject);
+
+        }
+
         foreach (Item item in inventory.GetItemList())
         {
-            foreach (Transform child in itemSlotContainer)
-            {
-                if(child == itemSlotTemplate)
-                    continue;
-               
-                    Destroy(child.gameObject);
-                
-            }
+            
 
             RectTransform itemSlotRectTransform = Instantiate(itemSlotTemplate, itemSlotContainer).GetComponent<RectTransform>();
             itemSlotRectTransform.gameObject.SetActive(true);
